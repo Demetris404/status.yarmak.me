@@ -1,1 +1,1 @@
-# ftp.onewayup.training
+# status.yarmak.me
